@@ -27,7 +27,7 @@
 [LibraryClasses]
   BaseLib|MdePkg/Library/BaseLib/BaseLib.inf
   BaseMemoryLib|MdePkg/Library/BaseMemoryLib/BaseMemoryLib.inf
-  ConfigBlockLib|KabylakeSiliconPkg/Library/BaseConfigBlockLib/BaseConfigBlockLib.inf
+  ConfigBlockLib|KabylakeSiliconPkg/Library/BaseSiConfigBlockLib/BaseSiConfigBlockLib.inf
   DebugLib|MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut.inf
   DebugPrintErrorLevelLib|MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.inf
   DevicePathLib|MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.inf
